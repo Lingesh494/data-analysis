@@ -1,0 +1,376 @@
+mal_id,title,type,episodes,score,popularity,rank,status,genre
+1,Cowboy Bebop,TV,26.0,8.75,42,46.0,Finished Airing,Action
+5,Cowboy Bebop: Tengoku no Tobira,Movie,1.0,8.38,646,218.0,Finished Airing,Action
+6,Trigun,TV,26.0,8.22,262,379.0,Finished Airing,Action
+7,Witch Hunter Robin,TV,26.0,7.23,1974,3315.0,Finished Airing,Action
+8,Bouken Ou Beet,TV,52.0,6.92,5717,4873.0,Finished Airing,Action
+15,Eyeshield 21,TV,145.0,7.91,1382,838.0,Finished Airing,Sports
+16,Hachimitsu to Clover,TV,24.0,7.98,951,717.0,Finished Airing,Comedy
+17,Hungry Heart: Wild Striker,TV,52.0,7.54,4731,1887.0,Finished Airing,Sports
+18,Initial D Fourth Stage,TV,24.0,8.17,1288,451.0,Finished Airing,Action
+19,Monster,TV,74.0,8.89,119,23.0,Finished Airing,Drama
+20,Naruto,TV,220.0,8.01,9,679.0,Finished Airing,Action
+21,One Piece,TV,,8.73,17,52.0,Currently Airing,Action
+22,Tennis no Oujisama,TV,178.0,7.84,1370,982.0,Finished Airing,Sports
+23,Ring ni Kakero 1,TV,12.0,6.35,8901,8192.0,Finished Airing,Sports
+24,School Rumble,TV,26.0,7.88,779,890.0,Finished Airing,Comedy
+25,Sunabouzu,TV,24.0,7.36,1714,2613.0,Finished Airing,Action
+26,Texhnolyze,TV,22.0,7.75,966,1209.0,Finished Airing,Avant Garde
+27,Trinity Blood,TV,24.0,7.28,1363,3008.0,Finished Airing,Action
+28,Yakitate!! Japan,TV,69.0,7.91,2256,831.0,Finished Airing,Comedy
+29,Zipang,TV,26.0,7.49,4866,2059.0,Finished Airing,Action
+30,Shinseiki Evangelion,TV,26.0,8.36,45,246.0,Finished Airing,Action
+31,Shinseiki Evangelion Movie: Shi to Shinsei,Movie,1.0,7.49,978,2051.0,Finished Airing,Action
+32,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",Movie,1.0,8.56,178,119.0,Finished Airing,Action
+33,Kenpuu Denki Berserk,TV,25.0,8.6,302,102.0,Finished Airing,Action
+43,Koukaku Kidoutai,Movie,1.0,8.27,342,330.0,Finished Airing,Action
+44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,4.0,8.69,924,66.0,Finished Airing,Action
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,TV,94.0,8.28,473,313.0,Finished Airing,Action
+46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,Movie,1.0,7.55,3272,1803.0,Finished Airing,Drama
+47,Akira,Movie,1.0,8.16,208,468.0,Finished Airing,Action
+48,.hack//Sign,TV,26.0,6.94,1393,4773.0,Finished Airing,Adventure
+49,Aa! Megami-sama!,OVA,5.0,7.28,3194,2995.0,Finished Airing,Comedy
+50,Aa! Megami-sama! (TV),TV,24.0,7.31,1577,2857.0,Finished Airing,Comedy
+51,Tenshi Kinryouku,OVA,3.0,6.24,3393,8848.0,Finished Airing,Action
+52,Kidou Tenshi Angelic Layer,TV,26.0,7.26,3080,3126.0,Finished Airing,Award Winning
+53,Ai Yori Aoshi,TV,24.0,7.1,2104,4025.0,Finished Airing,Comedy
+54,Appleseed (Movie),Movie,1.0,7.05,2708,4234.0,Finished Airing,Action
+55,Arc the Lad,TV,26.0,6.48,5551,7349.0,Finished Airing,Action
+56,Avenger,TV,13.0,5.85,5417,10969.0,Finished Airing,Adventure
+57,Beck,TV,26.0,8.29,720,308.0,Finished Airing,Drama
+58,Blue Gender,TV,26.0,7.01,2513,4444.0,Finished Airing,Action
+59,Chobits,TV,26.0,7.39,489,2470.0,Finished Airing,Comedy
+60,Chrno Crusade,TV,24.0,7.6,1156,1648.0,Finished Airing,Action
+61,D.N.Angel,TV,26.0,7.15,1402,3760.0,Finished Airing,Action
+62,D.C.: Da Capo,TV,26.0,6.7,2681,6067.0,Finished Airing,Drama
+63,DearS,TV,12.0,6.54,1664,6986.0,Finished Airing,Comedy
+64,Rozen Maiden,TV,12.0,7.4,1247,2422.0,Finished Airing,Action
+65,Rozen Maiden: Träumend,TV,12.0,7.61,2171,1580.0,Finished Airing,Action
+66,Azumanga Daiou The Animation,TV,26.0,8.06,635,601.0,Finished Airing,Comedy
+67,Basilisk: Kouga Ninpou Chou,TV,24.0,7.53,1338,1894.0,Finished Airing,Action
+68,Black Cat,TV,23.0,7.31,957,2863.0,Finished Airing,Action
+69,Cluster Edge,TV,25.0,6.31,6532,8424.0,Finished Airing,Action
+71,Full Metal Panic!,TV,24.0,7.59,471,1679.0,Finished Airing,Action
+72,Full Metal Panic? Fumoffu,TV,12.0,8.02,884,657.0,Finished Airing,Action
+73,Full Metal Panic! The Second Raid,TV,13.0,7.91,997,839.0,Finished Airing,Action
+74,Gakuen Alice,TV,26.0,7.64,2231,1513.0,Finished Airing,Comedy
+75,Soukyuu no Fafner: Dead Aggressor,TV,25.0,7.25,3394,3160.0,Finished Airing,Action
+76,Mahou Shoujo Lyrical Nanoha,TV,13.0,7.41,2180,2396.0,Finished Airing,Action
+77,Mahou Shoujo Lyrical Nanoha A's,TV,13.0,7.95,2909,760.0,Finished Airing,Action
+79,Shuffle!,TV,24.0,7.0,925,4504.0,Finished Airing,Comedy
+80,Kidou Senshi Gundam,TV,43.0,7.77,1737,1147.0,Finished Airing,Action
+81,Kidou Senshi Gundam: Dai 08 MS Shoutai,OVA,12.0,7.99,2434,701.0,Finished Airing,Action
+82,Kidou Senshi Gundam 0080: Pocket no Naka no Sensou,OVA,6.0,8.0,2930,698.0,Finished Airing,Action
+83,Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report,Movie,1.0,6.74,5958,5825.0,Finished Airing,Action
+84,Kidou Senshi Gundam 0083: Stardust Memory,OVA,13.0,7.21,3441,3378.0,Finished Airing,Action
+85,Kidou Senshi Zeta Gundam,TV,50.0,7.89,2567,877.0,Finished Airing,Action
+86,Kidou Senshi Gundam ZZ,TV,47.0,6.67,3478,6216.0,Finished Airing,Action
+87,Kidou Senshi Gundam: Gyakushuu no Char,Movie,1.0,7.68,3213,1392.0,Finished Airing,Action
+88,Kidou Senshi Gundam F91,Movie,1.0,6.59,4084,6715.0,Finished Airing,Action
+89,Kidou Senshi Victory Gundam,TV,51.0,6.71,4389,6000.0,Finished Airing,Action
+90,Shin Kidou Senki Gundam Wing,TV,49.0,7.66,1570,1451.0,Finished Airing,Action
+91,Shin Kidou Senki Gundam Wing: Endless Waltz,OVA,3.0,7.73,3417,1246.0,Finished Airing,Action
+92,Kidou Shinseiki Gundam X,TV,39.0,7.34,3931,2721.0,Finished Airing,Action
+93,Kidou Senshi Gundam SEED,TV,50.0,7.74,1455,1226.0,Finished Airing,Action
+94,Kidou Senshi Gundam SEED Destiny,TV,50.0,7.17,2110,3618.0,Finished Airing,Action
+95,Turn A Gundam,TV,50.0,7.8,3308,1087.0,Finished Airing,Action
+96,Kidou Butouden G Gundam,TV,49.0,7.58,2782,1716.0,Finished Airing,Action
+97,Last Exile,TV,26.0,7.78,1444,1121.0,Finished Airing,Action
+98,Mai-HiME,TV,26.0,7.39,2037,2474.0,Finished Airing,Action
+99,Mai-Otome,TV,26.0,7.27,3323,3051.0,Finished Airing,Comedy
+100,Shin Shirayuki-hime Densetsu Prétear,TV,13.0,7.15,2926,3734.0,Finished Airing,Drama
+101,Air,TV,12.0,7.27,880,3074.0,Finished Airing,Drama
+102,Aishiteruze Baby★★,TV,26.0,7.43,2209,2296.0,Finished Airing,Comedy
+103,Akazukin Chacha,TV,74.0,7.41,5586,2379.0,Finished Airing,Adventure
+104,Ayashi no Ceres,TV,24.0,7.17,2982,3601.0,Finished Airing,Adventure
+105,Boys Be...,TV,13.0,6.38,4831,7998.0,Finished Airing,Comedy
+106,Hana yori Dango,TV,51.0,7.57,2972,1761.0,Finished Airing,Drama
+107,Ou Dorobou Jing,TV,13.0,7.17,3916,3632.0,Finished Airing,Adventure
+108,Ou Dorobou Jing in Seventh Heaven,OVA,3.0,7.23,6152,3300.0,Finished Airing,Adventure
+109,Bakuretsu Tenshi,TV,24.0,6.77,2762,5626.0,Finished Airing,Action
+110,Chuuka Ichiban!,TV,52.0,7.59,5165,1665.0,Finished Airing,Action
+111,Corrector Yui,TV,52.0,6.86,5441,5159.0,Finished Airing,Adventure
+112,Chou Henshin Cosprayers,TV,8.0,4.82,7091,13835.0,Finished Airing,Action
+113,Uchuu no Stellvia,TV,26.0,7.32,4723,2835.0,Finished Airing,Action
+114,Sakigake!! Cromartie Koukou,TV,26.0,7.88,1693,888.0,Finished Airing,Comedy
+115,Ijigen no Sekai El-Hazard,TV,13.0,6.77,6263,5639.0,Finished Airing,Adventure
+116,Shinpi no Sekai El-Hazard (TV),TV,26.0,6.93,5342,4812.0,Finished Airing,Adventure
+117,Shinpi no Sekai El-Hazard,OVA,7.0,7.24,5113,3253.0,Finished Airing,Adventure
+118,Shinpi no Sekai El-Hazard Season 2,OVA,4.0,6.76,6930,5683.0,Finished Airing,Adventure
+119,Final Approach,TV,13.0,6.5,4050,7253.0,Finished Airing,Comedy
+120,Fruits Basket,TV,26.0,7.69,435,1376.0,Finished Airing,Drama
+121,Fullmetal Alchemist,TV,51.0,8.11,85,534.0,Finished Airing,Action
+122,Full Moon wo Sagashite,TV,52.0,7.93,2097,801.0,Finished Airing,Comedy
+123,Fushigi Yuugi,TV,52.0,7.6,1953,1654.0,Finished Airing,Action
+124,Fushigi Yuugi: Eikouden,OVA,4.0,6.79,5411,5556.0,Finished Airing,Adventure
+125,Futakoi,TV,13.0,6.41,4047,7836.0,Finished Airing,Comedy
+126,Futakoi Alternative,TV,13.0,6.83,4279,5330.0,Finished Airing,Comedy
+127,Gate Keepers,TV,24.0,6.9,4932,4960.0,Finished Airing,Action
+128,Gate Keepers 21,OVA,6.0,6.73,6613,5890.0,Finished Airing,Action
+129,Gensoumaden Saiyuuki,TV,50.0,7.53,3168,1900.0,Finished Airing,Action
+130,Saiyuuki Reload,TV,25.0,7.36,4022,2605.0,Finished Airing,Action
+131,Saiyuuki Reload Gunlock,TV,26.0,7.37,4838,2546.0,Finished Airing,Action
+132,GetBackers,TV,49.0,7.56,1945,1772.0,Finished Airing,Action
+133,Green Green,TV,12.0,6.12,2023,9508.0,Finished Airing,Comedy
+134,Gunslinger Girl,TV,13.0,7.38,1337,2522.0,Finished Airing,Action
+135,Hikaru no Go,TV,75.0,8.07,1728,584.0,Finished Airing,Comedy
+136,Hunter x Hunter,TV,62.0,8.43,380,186.0,Finished Airing,Action
+137,Hunter x Hunter: Original Video Animation,OVA,8.0,8.31,1868,291.0,Finished Airing,Action
+138,Hunter x Hunter: Greed Island,OVA,8.0,8.18,1481,438.0,Finished Airing,Action
+139,Hunter x Hunter: Greed Island Final,OVA,14.0,8.25,1668,353.0,Finished Airing,Action
+141,Jinki:Extend,TV,12.0,6.04,6252,9974.0,Finished Airing,Sci-Fi
+142,Kamikaze Kaitou Jeanne,TV,44.0,7.47,3116,2137.0,Finished Airing,Action
+143,Kannazuki no Miko,TV,12.0,6.8,2749,5486.0,Finished Airing,Action
+144,Kanon,TV,13.0,7.06,2878,4206.0,Finished Airing,Drama
+145,Kareshi Kanojo no Jijou,TV,26.0,7.6,1087,1633.0,Finished Airing,Comedy
+146,Kono Minikuku mo Utsukushii Sekai,TV,12.0,6.69,3011,6110.0,Finished Airing,Comedy
+147,Kimi ga Nozomu Eien,TV,14.0,7.16,1721,3699.0,Finished Airing,Drama
+148,Kita e.: Diamond Dust Drops,TV,12.0,6.55,6879,6942.0,Finished Airing,Drama
+149,Loveless,TV,12.0,6.71,1743,5966.0,Finished Airing,Boys Love
+150,Blood+,TV,50.0,7.6,664,1647.0,Finished Airing,Action
+151,Re: Cutie Honey,OVA,3.0,7.14,4276,3811.0,Finished Airing,Action
+152,Solty Rei,TV,24.0,7.24,4316,3233.0,Finished Airing,Action
+153,Juuni Kokuki,TV,45.0,8.01,1575,671.0,Finished Airing,Action
+154,Shaman King,TV,64.0,7.73,692,1245.0,Finished Airing,Action
+155,X/1999,Movie,1.0,6.56,3784,6872.0,Finished Airing,Action
+156,X,TV,24.0,7.38,2505,2543.0,Finished Airing,Action
+157,Mahou Sensei Negima!,TV,26.0,6.92,1731,4866.0,Finished Airing,Action
+158,Maria-sama ga Miteru,TV,13.0,7.28,2753,3027.0,Finished Airing,Drama
+159,Boukyaku no Senritsu,TV,24.0,6.25,5287,8795.0,Finished Airing,Action
+160,"Ima, Soko ni Iru Boku",TV,13.0,7.57,1645,1740.0,Finished Airing,Adventure
+161,Peace Maker Kurogane,TV,24.0,7.29,3112,2957.0,Finished Airing,Action
+162,Pita Ten,TV,26.0,6.92,4800,4881.0,Finished Airing,Comedy
+163,Power Stone,TV,26.0,6.46,7264,7504.0,Finished Airing,Adventure
+164,Mononoke Hime,Movie,1.0,8.67,106,76.0,Finished Airing,Action
+165,RahXephon,TV,26.0,7.37,1966,2557.0,Finished Airing,Action
+166,Samurai 7,TV,26.0,7.43,1838,2285.0,Finished Airing,Action
+167,Scrapped Princess,TV,24.0,7.36,2279,2606.0,Finished Airing,Action
+168,s.CRY.ed,TV,26.0,7.35,2519,2666.0,Finished Airing,Action
+169,Shingetsutan Tsukihime,TV,12.0,6.78,1492,5601.0,Finished Airing,Action
+170,Slam Dunk,TV,101.0,8.55,809,129.0,Finished Airing,Sports
+171,Strange Dawn,TV,13.0,6.24,8034,8846.0,Finished Airing,Adventure
+173,Tactics,TV,25.0,7.18,3773,3568.0,Finished Airing,Mystery
+174,Tenjou Tenge,TV,24.0,6.86,1350,5161.0,Finished Airing,Action
+175,Tokyo Underground,TV,26.0,6.58,4381,6772.0,Finished Airing,Action
+176,Triangle Heart: Sweet Songs Forever,OVA,4.0,6.09,7731,9721.0,Finished Airing,Adventure
+177,Tsubasa Chronicle,TV,26.0,7.51,1140,1991.0,Finished Airing,Action
+178,Ultra Maniac,TV,26.0,7.15,4118,3763.0,Finished Airing,Comedy
+179,Ultra Maniac OVA,OVA,1.0,6.62,8596,6523.0,Finished Airing,Comedy
+180,Vandread,TV,13.0,7.15,2490,3743.0,Finished Airing,Action
+181,Vandread: The Second Stage,TV,13.0,7.37,3212,2555.0,Finished Airing,Action
+182,Tenkuu no Escaflowne,TV,26.0,7.65,1538,1494.0,Finished Airing,Action
+183,Whistle!,TV,39.0,7.36,5812,2617.0,Finished Airing,Sports
+184,Xenosaga The Animation,TV,12.0,6.32,5100,8338.0,Finished Airing,Action
+185,Initial D First Stage,TV,26.0,8.36,602,240.0,Finished Airing,Action
+186,Initial D Second Stage,TV,13.0,8.19,1059,425.0,Finished Airing,Action
+187,Initial D Third Stage,Movie,1.0,7.91,1330,841.0,Finished Airing,Action
+188,Gosenzo Sane,OVA,4.0,6.13,10282,,Finished Airing,Comedy
+189,Love Hina,TV,24.0,7.09,965,4047.0,Finished Airing,Comedy
+190,Love Hina Again,OVA,3.0,7.2,2503,3459.0,Finished Airing,Comedy
+191,Love Hina Christmas Special: Silent Eve,TV Special,1.0,7.3,3123,2893.0,Finished Airing,Comedy
+192,Love Hina Haru Special: Kimi Sakura Chiru Nakare!!,TV Special,1.0,7.17,3276,3644.0,Finished Airing,Adventure
+193,Maburaho,TV,24.0,6.72,2289,5924.0,Finished Airing,Comedy
+194,Macross Zero,OVA,5.0,7.48,3816,2089.0,Finished Airing,Action
+195,Onegai☆Teacher,TV,12.0,7.09,1429,4059.0,Finished Airing,Drama
+196,Onegai☆Twins,TV,12.0,6.8,2402,5498.0,Finished Airing,Comedy
+197,Rizelmine,TV,24.0,6.49,4705,7309.0,Finished Airing,Comedy
+198,Speed Grapher,TV,24.0,7.29,2008,2972.0,Finished Airing,Action
+199,Sen to Chihiro no Kamikakushi,Movie,1.0,8.77,44,40.0,Finished Airing,Adventure
+200,Tenshi na Konamaiki,TV,50.0,7.42,4465,2344.0,Finished Airing,Comedy
+201,Video Girl Ai,OVA,6.0,7.19,4268,3510.0,Finished Airing,Comedy
+202,Wolf's Rain,TV,26.0,7.79,760,1096.0,Finished Airing,Action
+203,Words Worth,OVA,5.0,6.72,7166,,Finished Airing,Adventure
+204,Yumeria,TV,12.0,6.05,4499,9909.0,Finished Airing,Action
+205,Samurai Champloo,TV,26.0,8.52,109,143.0,Finished Airing,Action
+206,Lodoss-tou Senki: Eiyuu Kishi Den,TV,27.0,7.11,3993,3969.0,Finished Airing,Action
+207,Lodoss-tou Senki,OVA,13.0,7.32,2468,2809.0,Finished Airing,Action
+208,R.O.D: Read or Die,OVA,3.0,7.61,2796,1629.0,Finished Airing,Action
+209,R.O.D: The TV,TV,26.0,7.52,2806,1971.0,Finished Airing,Action
+210,Ranma ½,TV,161.0,7.77,967,1153.0,Finished Airing,Action
+211,Pure Mail,OVA,2.0,6.18,9836,,Finished Airing,Hentai
+212,Project A-Ko,Movie,1.0,6.85,4920,5218.0,Finished Airing,Action
+213,Pia Carrot e Youkoso!!,OVA,3.0,5.95,9650,,Finished Airing,Comedy
+214,Pia Carrot e Youkoso!! 2,OVA,3.0,6.1,10756,,Finished Airing,Comedy
+215,Pia Carrot e Youkoso!! 2 DX,OVA,6.0,6.19,10541,9123.0,Finished Airing,Comedy
+216,Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari,Movie,1.0,5.83,10309,11104.0,Finished Airing,Comedy
+217,Shin Angel,OVA,5.0,6.27,10206,,Finished Airing,Comedy
+218,Kidou Senkan Nadesico,TV,26.0,7.49,3154,2051.0,Finished Airing,Action
+219,Kidou Senkan Nadesico: The Prince of Darkness,Movie,1.0,6.72,5524,5917.0,Finished Airing,Action
+220,Kuro no Danshou,OVA,4.0,5.66,10537,,Finished Airing,Horror
+221,Mezzo Forte,OVA,2.0,6.62,4044,,Finished Airing,Action
+222,Mezzo DSA,TV,13.0,6.62,4786,6563.0,Finished Airing,Action
+223,Dragon Ball,TV,153.0,7.98,150,714.0,Finished Airing,Action
+225,Dragon Ball GT,TV,64.0,6.51,354,7166.0,Finished Airing,Action
+226,Elfen Lied,TV,13.0,7.46,78,2183.0,Finished Airing,Action
+227,FLCL,OVA,6.0,8.04,229,631.0,Finished Airing,Action
+228,Jigoku Shoujo,TV,26.0,7.6,694,1631.0,Finished Airing,Horror
+229,Ninin ga Shinobuden,TV,12.0,6.87,4046,5118.0,Finished Airing,Comedy
+230,Air Master,TV,27.0,6.94,3785,4736.0,Finished Airing,Action
+231,Asagiri no Miko,TV,26.0,6.1,7332,9647.0,Finished Airing,Action
+232,Cardcaptor Sakura,TV,70.0,8.18,526,433.0,Finished Airing,Adventure
+233,Daa! Daa! Daa!,TV,78.0,7.63,4659,1546.0,Finished Airing,Comedy
+234,Dan Doh!!,TV,26.0,6.63,9154,6453.0,Finished Airing,Adventure
+235,Meitantei Conan,TV,,8.18,707,446.0,Currently Airing,Adventure
+236,E's Otherwise,TV,26.0,6.58,5584,6744.0,Finished Airing,Action
+237,Koukyoushihen Eureka Seven,TV,50.0,8.05,552,613.0,Finished Airing,Action
+238,Rekka no Honoo,TV,42.0,7.34,2838,2735.0,Finished Airing,Action
+239,Gankutsuou,TV,24.0,8.11,1020,535.0,Finished Airing,Award Winning
+240,Genshiken,TV,12.0,7.63,1410,1549.0,Finished Airing,Slice of Life
+241,Girls Bravo: First Season,TV,11.0,6.35,1635,8188.0,Finished Airing,Comedy
+242,Gokusen,TV,13.0,7.42,3376,2370.0,Finished Airing,Action
+243,Gravitation,TV,13.0,6.9,1979,4945.0,Finished Airing,Boys Love
+244,Agatha Christie no Meitantei Poirot to Marple,TV,39.0,6.88,7424,5060.0,Finished Airing,Mystery
+245,Great Teacher Onizuka,TV,43.0,8.68,220,71.0,Finished Airing,Comedy
+246,Groove Adventure Rave,TV,51.0,7.2,2228,3451.0,Finished Airing,Action
+247,Harukanaru Toki no Naka de: Hachiyou Shou,TV,26.0,6.99,4720,4527.0,Finished Airing,Fantasy
+248,Ichigo 100%,TV,12.0,6.61,2046,6625.0,Finished Airing,Comedy
+249,InuYasha,TV,167.0,7.87,246,908.0,Finished Airing,Action
+250,Konjiki no Gash Bell!!,TV,150.0,7.55,1869,1841.0,Finished Airing,Action
+251,Kyou kara Maou!,TV,78.0,7.61,2028,1587.0,Finished Airing,Adventure
+252,Madlax,TV,26.0,7.01,3671,4470.0,Finished Airing,Drama
+253,Jungle wa Itsumo Hare nochi Guu,TV,26.0,7.8,3489,1073.0,Finished Airing,Comedy
+254,Jungle wa Itsumo Hare nochi Guu Deluxe,OVA,6.0,7.78,6088,1118.0,Finished Airing,Comedy
+255,Jungle wa Itsumo Hare nochi Guu Final,OVA,7.0,7.6,6828,1632.0,Finished Airing,Award Winning
+256,Hoshi no Koe,OVA,1.0,7.09,1607,4095.0,Finished Airing,Action
+257,Ikkitousen,TV,13.0,6.37,1529,8089.0,Finished Airing,Action
+258,Hitsuji no Uta,OVA,4.0,6.12,5361,9512.0,Finished Airing,Drama
+259,Happy☆Lesson,OVA,5.0,6.58,6366,6802.0,Finished Airing,Comedy
+260,Happy☆Lesson (TV),TV,13.0,6.6,4444,6655.0,Finished Airing,Comedy
+261,Happy☆Lesson Advance,TV,13.0,6.76,5738,5725.0,Finished Airing,Comedy
+262,Happy☆Lesson The Final,OVA,3.0,6.76,6882,5726.0,Finished Airing,Comedy
+263,Hajime no Ippo,TV,75.0,8.78,353,35.0,Finished Airing,Sports
+264,Hajime no Ippo: Champion Road,TV Special,1.0,8.25,1680,351.0,Finished Airing,Sports
+265,Hajime no Ippo: Mashiba vs. Kimura,OVA,1.0,8.25,1993,352.0,Finished Airing,Sports
+266,Gunparade March: Arata Naru Kougunka,TV,12.0,6.69,5481,6100.0,Finished Airing,Action
+267,Gungrave,TV,26.0,7.81,1259,1061.0,Finished Airing,Action
+268,Golden Boy,OVA,6.0,8.04,570,632.0,Finished Airing,Adventure
+269,Bleach,TV,366.0,7.98,35,711.0,Finished Airing,Action
+270,Hellsing,TV,13.0,7.5,287,2025.0,Finished Airing,Action
+271,Gad Guard,TV,26.0,6.63,5849,6457.0,Finished Airing,Action
+272,Noir,TV,26.0,7.27,2029,3055.0,Finished Airing,Action
+273,Mahoutsukai ni Taisetsu na Koto,TV,12.0,6.68,4525,6198.0,Finished Airing,Fantasy
+274,Kiddy Grade,TV,24.0,7.17,3491,3616.0,Finished Airing,Action
+275,Love♥Love?,TV,9.0,5.83,4985,11073.0,Finished Airing,Comedy
+276,Mahoromatic: Automatic Maiden,TV,12.0,7.13,2913,3870.0,Finished Airing,Comedy
+277,Mahoromatic: Motto Utsukushii Mono,TV,14.0,7.12,4181,3915.0,Finished Airing,Comedy
+278,Viewtiful Joe,TV,51.0,6.76,6260,5696.0,Finished Airing,Action
+279,Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,TV,13.0,7.06,3771,4209.0,Finished Airing,Horror
+280,Animal Yokochou,TV,51.0,7.02,10025,4384.0,Finished Airing,Adventure
+281,Akane Maniax,OVA,3.0,5.73,5342,11552.0,Finished Airing,Comedy
+282,Angel Heart,TV,50.0,7.25,5326,3195.0,Finished Airing,Action
+283,Akage no Anne,TV,50.0,7.85,3410,963.0,Finished Airing,Drama
+284,Area 88 (TV),TV,12.0,6.98,5794,4574.0,Finished Airing,Action
+285,Argento Soma,TV,25.0,6.74,4471,5797.0,Finished Airing,Action
+286,B'T X,TV,25.0,7.01,6211,4445.0,Finished Airing,Adventure
+287,Grappler Baki (TV),TV,24.0,7.45,1619,2214.0,Finished Airing,Sports
+288,Bakuten Shoot Beyblade,TV,51.0,6.8,2039,5466.0,Finished Airing,Adventure
+289,Comic Party,TV,13.0,6.56,5132,6878.0,Finished Airing,Comedy
+290,Seikai no Monshou,TV,13.0,7.62,3215,1573.0,Finished Airing,Action
+291,D.C.S.S: Da Capo Second Season,TV,26.0,6.92,4167,4851.0,Finished Airing,Comedy
+292,Dear Boys,TV,26.0,6.76,4981,5712.0,Finished Airing,Drama
+293,Di Gi Charat,TV,16.0,6.82,4595,5392.0,Finished Airing,Comedy
+294,Divergence Eve,TV,13.0,5.9,5937,10740.0,Finished Airing,Adventure
+295,Divergence Eve 2: Misaki Chronicles,TV,13.0,6.28,7440,8626.0,Finished Airing,Adventure
+296,Dragon Drive,TV,38.0,6.69,4871,6093.0,Finished Airing,Action
+297,Grenadier: Hohoemi no Senshi,TV,12.0,6.67,3150,6264.0,Finished Airing,Action
+298,.hack//Tasogare no Udewa Densetsu,TV,12.0,6.55,2859,6956.0,Finished Airing,Adventure
+299,.hack//Liminality,OVA,4.0,6.58,4174,6781.0,Finished Airing,Mystery
+300,3x3 Eyes,OVA,4.0,6.7,4416,6059.0,Finished Airing,Action
+301,Cinderella Boy,TV,13.0,6.32,7443,8346.0,Finished Airing,Action
+302,Mirai Shounen Conan,TV,26.0,8.09,3222,565.0,Finished Airing,Adventure
+303,Aa! Megami-sama!: Chichaitte Koto wa Benri da ne,TV,48.0,6.87,4973,5081.0,Finished Airing,Comedy
+304,Aa! Megami-sama! Movie,Movie,1.0,7.53,3675,1889.0,Finished Airing,Comedy
+305,Abashiri Ikka,OVA,4.0,5.29,8999,13114.0,Finished Airing,Action
+306,Abenobashi Mahou☆Shoutengai,TV,13.0,7.21,2362,3406.0,Finished Airing,Award Winning
+307,Kerokko Demetan,TV,39.0,6.06,12325,9859.0,Finished Airing,Comedy
+308,Zettai Shounen,TV,26.0,6.86,5096,5152.0,Finished Airing,Drama
+309,Akahori Gedou Hour Rabuge,TV,13.0,6.09,8030,9664.0,Finished Airing,Comedy
+310,"Chiisana Obake: Acchi, Kocchi, Socchi",TV,50.0,6.1,11816,9609.0,Finished Airing,Comedy
+311,Ace wo Nerae!,TV,26.0,7.09,5805,4079.0,Finished Airing,Drama
+312,Ace wo Nerae! Final Stage,OVA,12.0,6.85,10483,5188.0,Finished Airing,Drama
+313,Ace wo Nerae! (1979),Movie,1.0,6.91,8914,4919.0,Finished Airing,Drama
+314,Ace wo Nerae! 2,OVA,13.0,7.18,9658,3581.0,Finished Airing,Drama
+315,Xiao Qian,Movie,1.0,6.39,10368,7972.0,Finished Airing,Action
+316,Nageki no Kenkou Yuuryouji,OVA,3.0,6.19,8307,,Finished Airing,Comedy
+317,Final Fantasy VII: Advent Children,Movie,1.0,7.71,1232,1303.0,Finished Airing,Action
+318,Hand Maid May,TV,10.0,6.68,4314,6182.0,Finished Airing,Comedy
+319,Happy World!,OVA,3.0,5.97,8230,10329.0,Finished Airing,Comedy
+320,A Kite,OVA,2.0,6.53,2650,,Finished Airing,Action
+321,Najica Dengeki Sakusen,TV,12.0,5.96,5696,10378.0,Finished Airing,Action
+322,Paradise Kiss,TV,12.0,7.87,1071,917.0,Finished Airing,Drama
+323,Mousou Dairinin,TV,13.0,7.66,549,1445.0,Finished Airing,Avant Garde
+324,Kidou Keisatsu Patlabor: On Television,TV,47.0,7.69,3692,1357.0,Finished Airing,Action
+325,Peach Girl,TV,25.0,6.92,2148,4881.0,Finished Airing,Drama
+326,Petshop of Horrors,TV,4.0,7.24,2768,3229.0,Finished Airing,Horror
+327,Puchi Pri*Yucie,TV,26.0,7.39,5671,2480.0,Finished Airing,Comedy
+328,Piano,TV,10.0,5.98,7044,10268.0,Finished Airing,Drama
+329,Planetes,TV,26.0,8.24,988,366.0,Finished Airing,Award Winning
+330,Midori no Hibi,TV,13.0,7.21,1479,3388.0,Finished Airing,Comedy
+331,Mahoujin Guruguru,TV,45.0,7.59,6443,1679.0,Finished Airing,Adventure
+332,Dokidoki♡Densetsu: Mahoujin Guruguru,TV,38.0,7.12,9382,3924.0,Finished Airing,Adventure
+333,Mama wa Shougaku 4-nensei,TV,51.0,7.32,7658,2810.0,Finished Airing,Award Winning
+334,Marmalade Boy,TV,76.0,7.41,3129,2398.0,Finished Airing,Comedy
+335,Matantei Loki Ragnarok,TV,26.0,7.24,3878,3221.0,Finished Airing,Comedy
+336,Ginyuu Mokushiroku Meine Liebe,TV,13.0,6.43,6074,7733.0,Finished Airing,Drama
+337,Psychic Academy,TV,24.0,6.18,6334,9201.0,Finished Airing,Comedy
+338,Versailles no Bara,TV,40.0,8.35,2163,257.0,Finished Airing,Drama
+339,Serial Experiments Lain,TV,13.0,8.1,238,549.0,Finished Airing,Avant Garde
+340,Mutsu Enmei Ryuu Gaiden: Shura no Toki,TV,26.0,7.54,4759,1863.0,Finished Airing,Action
+341,Spiral: Suiri no Kizuna,TV,25.0,7.2,3274,3475.0,Finished Airing,Drama
+342,Starship Operators,TV,13.0,6.92,5601,4827.0,Finished Airing,Drama
+343,Tsukuyomi: Moon Phase,TV,25.0,6.93,2643,4816.0,Finished Airing,Comedy
+344,Futatsu no Spica,TV,20.0,7.35,6549,2643.0,Finished Airing,Drama
+345,Eikoku Koi Monogatari Emma,TV,12.0,7.61,3013,1599.0,Finished Airing,Drama
+346,W: Wish,TV,13.0,6.11,5660,9554.0,Finished Airing,Drama
+347,Wild Arms: Twilight Venom,TV,22.0,6.62,7221,6526.0,Finished Airing,Action
+348,Binzume Yousei,TV,13.0,6.44,5236,7637.0,Finished Airing,Comedy
+349,Magical Canan,TV,13.0,6.07,7953,9794.0,Finished Airing,Drama
+350,Ojamajo Doremi,TV,51.0,7.33,3089,2751.0,Finished Airing,Comedy
+351,Ojamajo Doremi Sharp,TV,49.0,7.47,4882,2142.0,Finished Airing,Comedy
+352,Motto! Ojamajo Doremi,TV,50.0,7.47,4934,2144.0,Finished Airing,Comedy
+353,Ojamajo Doremi Dokkaan!,TV,51.0,7.74,5368,1234.0,Finished Airing,Comedy
+354,UG☆Ultimate Girls,TV,12.0,5.6,6839,12129.0,Finished Airing,Comedy
+355,Shakugan no Shana,TV,24.0,7.44,439,2270.0,Finished Airing,Action
+356,Fate/stay night,TV,24.0,7.27,186,3087.0,Finished Airing,Action
+357,Bokusatsu Tenshi Dokuro-chan,OVA,4.0,6.53,1257,7057.0,Finished Airing,Comedy
+358,"Iriya no Sora, UFO no Natsu",OVA,6.0,6.89,4691,5008.0,Finished Airing,Drama
+359,I'll/CKBC,OVA,2.0,6.16,8630,9285.0,Finished Airing,Sports
+360,Himiko-den,TV,12.0,6.13,8075,9497.0,Finished Airing,Adventure
+361,Memories Off,OVA,3.0,5.74,7935,11512.0,Finished Airing,Drama
+362,Memories Off 2nd,OVA,3.0,6.09,9500,9700.0,Finished Airing,Drama
+363,Memories Off 3.5,OVA,4.0,6.09,9960,9702.0,Finished Airing,Drama
+364,Gallery Fake,TV,37.0,7.4,5687,2461.0,Finished Airing,Mystery
+365,Fake,OVA,1.0,6.5,5031,7252.0,Finished Airing,Boys Love
+366,AIKa,OVA,7.0,5.96,3894,10401.0,Finished Airing,Action
+367,Akazukin Chacha OVA,OVA,3.0,7.03,10773,4373.0,Finished Airing,Comedy
+368,Bible Black,OVA,6.0,6.58,2890,,Finished Airing,Hentai
+369,Boogiepop wa Warawanai,TV,12.0,7.15,1712,3757.0,Finished Airing,Avant Garde
+370,Burn Up Excess,TV,13.0,6.53,6182,7059.0,Finished Airing,Action
+371,Cardcaptor Sakura Movie 1,Movie,1.0,7.63,2242,1545.0,Finished Airing,Award Winning
+372,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,Movie,1.0,8.21,2016,393.0,Finished Airing,Award Winning
+373,Bannou Bunka Neko-Musume,OVA,6.0,6.68,6007,6188.0,Finished Airing,Adventure
+374,Bannou Bunka Neko-Musume DASH!,OVA,12.0,6.29,8164,8532.0,Finished Airing,Action
+375,Bannou Bunka Neko-Musume (1998),TV,12.0,6.5,7053,7242.0,Finished Airing,Action
+376,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",Special,1.0,7.12,1328,3891.0,Finished Airing,Drama
+377,eX-Driver,OVA,6.0,6.67,6254,6257.0,Finished Airing,Action
+378,eX-Driver the Movie,Movie,1.0,6.57,8519,6815.0,Finished Airing,Action
+379,Heppoko Jikken Animation Excel♥Saga,TV,26.0,7.48,2093,2095.0,Finished Airing,Comedy
+380,Fushigi Yuugi OVA,OVA,3.0,7.12,4890,3894.0,Finished Airing,Action
+381,Fushigi Yuugi: Dai Ni Bu,OVA,6.0,7.24,5114,3226.0,Finished Airing,Action
+382,Futari Ecchi,OVA,4.0,6.31,3938,8431.0,Finished Airing,Comedy
+383,Galaxy Angel,TV,24.0,7.01,4360,4451.0,Finished Airing,Comedy
+384,Gantz,TV,13.0,6.97,697,4654.0,Finished Airing,Action
+385,Gilgamesh,TV,26.0,6.59,3653,6705.0,Finished Airing,Drama
+386,H2,TV,41.0,7.23,6729,3284.0,Finished Airing,Comedy
+387,Haibane Renmei,TV,13.0,7.98,845,718.0,Finished Airing,Drama
+388,Capeta,TV,52.0,7.82,3832,1033.0,Finished Airing,Sports
+389,Karas,OVA,6.0,7.35,2963,2654.0,Finished Airing,Action
+390,Suzuka,TV,26.0,7.16,2019,3667.0,Finished Airing,Drama
+391,Tales of Phantasia The Animation,OVA,4.0,6.76,4900,5689.0,Finished Airing,Adventure
+392,Yuu☆Yuu☆Hakusho,TV,112.0,8.46,300,169.0,Finished Airing,Action
+393,Escaflowne,Movie,1.0,7.05,2717,4241.0,Finished Airing,Action
+394,Ai Yori Aoshi: Enishi,TV,12.0,7.11,3079,3938.0,Finished Airing,Comedy
+395,Gantz 2nd Stage,TV,13.0,7.01,1561,4452.0,Finished Airing,Action
+396,Seikai no Senki,TV,13.0,7.64,4096,1498.0,Finished Airing,Action
+397,Seikai no Senki II,TV,10.0,7.77,4809,1158.0,Finished Airing,Action
+398,Seikai no Senki III,OVA,2.0,7.62,5437,1574.0,Finished Airing,Action
